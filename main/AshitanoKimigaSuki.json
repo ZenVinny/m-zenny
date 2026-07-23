@@ -4,15 +4,5 @@
   "artist": "",
   "cover": "",
   "description": "",
-  "chapters": {
-    "0": {
-      "title": "",
-      "volume": "",
-      "last_updated": 1784861589,
-      "groups": {
-        "Default": "https://raw.githubusercontent.com/ZenVinny/m-zenny/main/chapters/c9a0c1ca.json"
-      }
-    }
-  },
-  "last_updated": 1784861589
+  "chapters": {}
 }
