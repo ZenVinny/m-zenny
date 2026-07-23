@@ -1,1 +1,18 @@
-
+{
+  "title": "Ashita no Kimi ga Suki",
+  "author": "",
+  "artist": "",
+  "cover": "",
+  "description": "",
+  "chapters": {
+    "0": {
+      "title": "",
+      "volume": "",
+      "last_updated": 1784861589,
+      "groups": {
+        "Default": "/proxy/api/imgpile/chapter/nX3itnP"
+      }
+    }
+  },
+  "last_updated": 1784861589
+}
