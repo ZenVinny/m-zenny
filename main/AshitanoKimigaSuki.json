@@ -4,5 +4,56 @@
   "artist": "",
   "cover": "",
   "description": "",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "",
+      "volume": "",
+      "last_updated": 1784867013,
+      "groups": {
+        "Default": [
+          "https://i.ibb.co/QF5bJFW8/001.webp",
+          "https://i.ibb.co/PvGh2tGy/002.webp",
+          "https://i.ibb.co/0pnhMbVg/003.webp",
+          "https://i.ibb.co/fY9fVLLS/004.webp",
+          "https://i.ibb.co/V0Pshwbb/005.webp",
+          "https://i.ibb.co/7tk7Qp3m/006.webp",
+          "https://i.ibb.co/CKzyGd3P/007.webp",
+          "https://i.ibb.co/dsTDHr79/008.webp",
+          "https://i.ibb.co/mkWqPZ0/009.webp",
+          "https://i.ibb.co/HZDtRFd/010.webp",
+          "https://i.ibb.co/jpz1XjM/011.webp",
+          "https://i.ibb.co/wNcjWq3f/012.webp",
+          "https://i.ibb.co/nN8KN1DN/013.webp",
+          "https://i.ibb.co/svPL61x8/014.webp",
+          "https://i.ibb.co/pB7KZFkh/015.webp",
+          "https://i.ibb.co/8LqB9GVq/016.webp",
+          "https://i.ibb.co/NbhHcJH/017.webp",
+          "https://i.ibb.co/xSJWSWxq/018.webp",
+          "https://i.ibb.co/HfzdPVdr/019.webp",
+          "https://i.ibb.co/1fQMGpNb/020.webp",
+          "https://i.ibb.co/s9QVMNvN/021.webp",
+          "https://i.ibb.co/0yPVt3X6/022.webp",
+          "https://i.ibb.co/r2n8zZSX/023.webp",
+          "https://i.ibb.co/ds4W38tK/024.webp",
+          "https://i.ibb.co/fYCZ0qcb/025.webp",
+          "https://i.ibb.co/Q74PT1vR/026.webp",
+          "https://i.ibb.co/TBmKHZJg/027.webp",
+          "https://i.ibb.co/cS9ZhdnB/028.webp",
+          "https://i.ibb.co/7NkhPm5s/029.webp",
+          "https://i.ibb.co/Gvqh7nhy/030.webp",
+          "https://i.ibb.co/mr9fWK6t/031.webp",
+          "https://i.ibb.co/1GGtW10Q/032.webp",
+          "https://i.ibb.co/nyyhr6m/033.webp",
+          "https://i.ibb.co/Tqk4y6DB/034.webp",
+          "https://i.ibb.co/B5mLmCMW/035.webp",
+          "https://i.ibb.co/RGcnNrYs/036.webp",
+          "https://i.ibb.co/TxtqTcsz/037.webp",
+          "https://i.ibb.co/B5JPfmvs/038.webp",
+          "https://i.ibb.co/KxZ9vMCS/039.webp",
+          "https://i.ibb.co/jPhtPZT2/040.webp"
+        ]
+      }
+    }
+  },
+  "last_updated": 1784867013
 }
