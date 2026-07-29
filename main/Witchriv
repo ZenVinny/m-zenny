@@ -12,7 +12,15 @@
       "groups": {
         "Default": "/proxy/api/imgchest/chapter/a846bar5gyx"
       }
+    },
+    "35": {
+      "title": "",
+      "volume": "",
+      "last_updated": 1785372620,
+      "groups": {
+        "Default": "/proxy/api/imgchest/chapter/9ryd8plxw4k"
+      }
     }
   },
-  "last_updated": 1785222674
+  "last_updated": 1785372620
 }
