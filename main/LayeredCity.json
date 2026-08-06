@@ -4,15 +4,5 @@
   "artist": "Tsukumizu",
   "cover": "https://iili.io/CUqrPf9.png",
   "description": "A vast, towering layered city, built by humanity after gaining access to advanced technology. As people gaze upon the city while its construction advances, or go about their lives as residents within it, humans and the things created by humans each continue to layer their own ways of living.\r\n\r\nThis is a record of \"life\", capturing various eras of a world moving toward its end.\n\nTags: Sci-Fi, Slice of Life",
-  "chapters": {
-    "2": {
-      "title": "Telepathy",
-      "volume": "",
-      "last_updated": 1785724668,
-      "groups": {
-        "Telepathy": "/proxy/api/imgchest/chapter/vj4j29va978"
-      }
-    }
-  },
-  "last_updated": 1785724668
+  "chapters": {}
 }
