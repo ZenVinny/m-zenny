@@ -4,15 +4,5 @@
   "artist": "Kyo Tanimoto",
   "cover": "https://i.postimg.cc/kM2Hc9Tb/Untitled6-20260731225644.png",
   "description": "If you want to live, find him. If you don't want to die, don't go near him. He is the greatest doctor and the strongest hero, the legend of the underworld--Under Doctor Haiji.\n\nTags: Action, Drama, Medical",
-  "chapters": {
-    "26": {
-      "title": "Haiji's Long Day, Part 1",
-      "volume": "",
-      "last_updated": 1785227441,
-      "groups": {
-        "Haiji's Long Day, Part 1": "/proxy/api/imgchest/chapter/vj4j2dd8578"
-      }
-    }
-  },
-  "last_updated": 1785227441
+  "chapters": {}
 }
